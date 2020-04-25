@@ -1,4 +1,4 @@
-# Results table
+# Results Table:
 
 Here is the latest table combination of server/client/script/model:
 
