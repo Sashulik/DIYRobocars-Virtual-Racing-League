@@ -1,4 +1,3 @@
-# Virtual-Racing-League-April-25th-2020
 All race events related documentation and models in folders related to the event by date
 
 ## Ottawa Autonomous Vehicle Group VRL Link:
