@@ -1,6 +1,4 @@
-###################################################
-Race scripts - Parking Lot Nerds,  April 25th, 2020
-###################################################
+# Race scripts - Parking Lot Nerds,  April 25th, 2020
 
 ## 1 Orginal
 
@@ -14,7 +12,6 @@ python racerThrottleMap3.py --model=../../models/paul-tub20-ver01.h5 --host=trai
 python racerThrottleMap3.py --model=../../models/paul-tub20-ver01.h5 --host=127.0.0.1 --name ParkingLotNerds
 
 
-
-## Tawns Server
+## 3 Tawns Server
 
 python racerThrottleMap3.py --model=../../models/paul-tub20-ver01.h5 --host=trainmydonkey.com --name ParkingLotNerds
